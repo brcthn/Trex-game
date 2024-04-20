@@ -1,0 +1,15 @@
+* {
+    padding: 0px;
+    margin: 0px;
+  }
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    user-select: none;
+}
+canvas {
+    border: 0.1px solid grey;
+}
